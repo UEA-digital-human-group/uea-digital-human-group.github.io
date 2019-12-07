@@ -1,2 +1,2 @@
-# UEA DIgital Human Group
+# UEA Digital Human Group
 
