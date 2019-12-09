@@ -16,7 +16,9 @@
       <header>
 
         {% if site.logo %}
+        <a href="{{ "/" | absolute_url }}"></a>
           <img src="{{site.logo | relative_url}}" alt="Logo" />
+        </a>
         {% endif %}
 
         {% if site.show_downloads %}
