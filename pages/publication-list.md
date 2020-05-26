@@ -6,7 +6,7 @@
 **Joint Estimation of Face and Camera Pose** (Short paper and poster)  
 David Greenwood, Sarah Taylor and Iain Matthews  
 CVMP, December 2019  
-\[[Project page](./pages/joint-estimation-of-face-and-camera-pose.html)\]
+\[[Project page](/pages/joint-estimation-of-face-and-camera-pose.html)\]
 
 **Synthesising Visual Speech using Dynamic Visemes and Deep Learning Architectures**  
 Ausdang Thangthai, Ben Milner, Sarah Taylor  
