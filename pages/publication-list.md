@@ -1,6 +1,19 @@
 
 ## Select Publications
 
+### 2021
+**Importance of Parasagittal Sensor Information in Tongue Motion Capture through a Diphonic Analysis**  
+Sarah Taylor*, Salvador Medina∗, Mark Tiede, Alexander Hauptmann and Iain Matthews  
+Interspeech, September 2021  
+\[[Paper](http://dx.doi.org/10.21437/Interspeech.2021-1732)\]  
+(*Equal contribution)
+
+**Speaker-independent Speech Animation using Perceptual Loss Functions and Synthetic Data**  
+Danny Websdale, Sarah Taylor and Ben Milner  
+IEEE Transactions on Multimedia  
+\[[Early Access Paper](https://ieeexplore.ieee.org/abstract/document/9454300)\]
+
+
 ### 2019
 \*BEST SHORT PAPER AWARD\*  
 **Joint Estimation of Face and Camera Pose** (Short paper and poster)  
