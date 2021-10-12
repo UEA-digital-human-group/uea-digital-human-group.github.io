@@ -22,7 +22,12 @@ In 2015 Dr. Taylor returned to UEA to establish her own group. In 2017 She becam
     width="150px"
     height="150px">
 
-Dr. David Greenwood is a Senior Associate Research Scientist in the School of Computing Sciences and a member of the Digital Humans Group in the Graphics, Vision and Speech Laboratory. Dr Greenwood's research interests involve the modelling of human speech and motion, neural rendering and camera estimation. He has worked with tracking people in video, social interaction in Virtual Environments and speech-driven animation.
+Dr. David Greenwood is a Lecturer in the School of Computing Sciences and a member of the Digital Humans Group in the Graphics, Vision and Speech Laboratory. Dr. Greenwood's research interests involve the modelling of human speech and motion, neural rendering and camera estimation. He has worked with tracking people in video, social interaction in Virtual Environments and speech-driven animation.
 
 
 Dr. Greenwood’s PhD thesis focused on the rigid pose of the head during speech, using deep learning to predict motion. During his PhD studies, he completed two internships, first at Disney Research in Pittsburgh, and later at Oculus Research (now Facebook Reality Labs), also in Pittsburgh.
+
+
+
+### Jonathan Windle
+
